@@ -1,6 +1,5 @@
 """Module that lets you manipulate a wallet"""
 
-
 class InsufficientAmount(Exception):
     """Exception triggered when you try to spend more money than a wallet has"""
 
